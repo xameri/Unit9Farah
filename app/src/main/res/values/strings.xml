@@ -10,4 +10,11 @@
     <string name="action_email">Email</string>
     <string name="action_sms">Sms</string>
     <string name="title_activity_settings">SettingsActivity</string>
+
+    <string name="nav_add">Add</string>
+    <string name="nav_delete">Delete</string>
+    <string name="nav_setting">Settings</string>
+    <string name="nav_text">Text</string>
+    <string name="nav_email">Email</string>
+
 </resources>
